@@ -14,7 +14,7 @@ alt="horrorhusbands" /p
   
   ${\textsf{\color{#6E0929} bloodymary addicted still.  }}$
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317tbskacqb276ffokhlmupoo6um&cover_image=true&theme=novatorem&show_offline=true&background_color=6E0929&interchange=false&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317tbskacqb276ffokhlmupoo6um&cover_image=true&theme=novatorem&show_offline=true&background_color=6E0929&interchange=false&profanity=false&hide_remaster=false&bar_color=450519&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div> 
 <br />
