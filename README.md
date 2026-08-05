@@ -33,4 +33,8 @@ ${\textsf{\color{#711041} "My moon, My moon my man" }}$
 
 <img width="972" height="150" alt="image" src="https://github.com/user-attachments/assets/492d2701-6ada-4f0e-a381-08fa08d581cb" />
 
- ${\textsf{\color{#ebebe0} made by my alpha seb / ryIandgracee on gh / pvurrity }}$
+<div align="center">
+
+  tysm !!!
+  
+ [fans-town](https://github.com/fans-town) || [pt-walk-of-fame](https://github.com/pt-walk-of-fame) || [pt-hall-of-media](https://github.com/pt-hall-of-media) || [pt-fashion](https://github.com/pt-fashion) || [pt-players](https://github.com/pt-players) || [title-town](https://github.com/title-town) || [ponychievements](https://github.com/ponychievements) 
